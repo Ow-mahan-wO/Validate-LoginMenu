@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+.back-card{
+    width: 416px;
+    height: 503px;
+    border-radius: 30px;
+    background-color: white;
+}
+input{
+text-indent: 6px;
+width: 92%;
+border-bottom: 1px solid black;
+border-top: none;
+border-left: none;
+border-right: none;
+outline: none;
+}
+label{
+    font-weight: bold;
+}
+.container{
+    margin: 5rem auto;
+    justify-content: center;
+}
+.password-validate{
+    background-color: red;
+    width: 2%;
+    height: 0.3rem;
+}
+.repassword-validate{
+    background-color: red;
+    width: 2%;
+    height: 0.3rem;
+}
