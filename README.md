@@ -7,6 +7,8 @@ Languages ​​used in this mini-project:
 
 -CSS(BOOTSTRAP)
 
+-Sass
+
 -JAVASCRIPT
 
 github page link:
